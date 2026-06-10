@@ -1,5 +1,4 @@
 import sys
-
 from PyQt6.QtWidgets import QApplication, QSystemTrayIcon, QMenu, QStyle
 
 from widgets.overlay import Overlay
